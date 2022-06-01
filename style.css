@@ -1,0 +1,21 @@
+body
+{
+    text-align: center;
+    background-color:rgb(38, 69, 33);
+}
+h1
+{
+    color: aliceblue;
+}
+
+.my_nav_bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+img
+{
+    width: 80%;
+    height: 80%;
+}
