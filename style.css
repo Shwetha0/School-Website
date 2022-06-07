@@ -1,6 +1,6 @@
 body
 {
-    text-align: center;
+    
     background-color:rgb(201, 241, 195);
 }
 h1
@@ -18,4 +18,31 @@ img
 {
     width: 80%;
     height: 80%;
+}
+.travel_main.Div
+{
+    border: 1px solid lightgrey;
+}
+.travel_main.Div
+{
+    width: 100%;
+}
+.travel_main.Div h5, .travel_main.Div p
+{
+    margin: 20px;
+} 
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+    border: 10px;
+}
+.movie_head i
+{
+    float: right;
+}
+.movie_text span
+{
+    color: orange;
 }
